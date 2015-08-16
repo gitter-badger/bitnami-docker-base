@@ -1,4 +1,6 @@
 # Bitnami Base OS Docker Image
+
+[![Join the chat at https://gitter.im/bitnami/bitnami-docker-base](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bitnami/bitnami-docker-base?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 All Bitnami container images are built using this image as a base. As of this time, this image uses Ubuntu 14.04 as the underlying OS.
 
 # License
